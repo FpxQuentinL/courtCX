@@ -1,0 +1,6 @@
+{
+"AudioPathI":"file:///home/pi/Dev/CourtCX/build-generik-Desktop-Debug/audio/rale-hicks.mp3",
+"AudioPathF":"file:///home/pi/Dev/CourtCX/build-generik-Desktop-Debug/audio/court-circuit-long.mp3",
+"Delay":"5",
+"DelayFinal":"1000"
+}
